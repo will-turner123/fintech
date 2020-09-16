@@ -19,3 +19,10 @@ Robinhood has led to many brokerages introducing commission-free trading, and ha
 ## RECOMMENDATIONS
 
 If I were to advise the company, there are a few suggestions I would make. First, I’d suggest they make more changes to accommodate experienced traders. I would push for them to further improve their user interface for accessibility and ease of use so they can capitalize on one of their greatest assets. Robinhood’s selection of stocks to trade is also limited. I believe this could push users from their platform to competitors as they grow more experienced with trading. This probably would not require much more technologies than those they are already using.
+
+## SOURCES
+
+- https://en.wikipedia.org/wiki/Robinhood_(company)
+- https://www.axios.com/robinhood-effect-moving-market-0425d618-c39d-4dfc-b8d7-4c4253575ada.html
+- https://stackshare.io/robinhood/robinhood
+- https://www.brokerage-review.com/better-compare/competitors/robinhood-vs-competition.aspx#:~:text=In%20particular%2C%20Robinhood's%20main%20competitors,that%20Robinhood%20doesn't%20offer.
